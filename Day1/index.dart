@@ -11,9 +11,9 @@ void main() {
 
   //Var - Dart Firgure Out The Type of Data By Itself
 
-  var name = "Aditya";
+  var name = "Mandar";
 
-  var age = 12;
+  var age = 19;
 
   print(name);
   print(age);
