@@ -18,3 +18,8 @@ void main() {
     print("Login Failed");
   }
 }
+
+// Task1: Reverse String
+// Task2: Find Pallindrome
+// Task3: Find the sum of 5 data in list [1,2,3,4,5]
+// Task4: Find the largest number in list
